@@ -1,0 +1,7 @@
+import localFont from "next/font/local";
+
+
+const GeistMono = localFont({
+  src: "./fonts/GeistMono.woff2",
+  variable: "--geist-mono",
+});
